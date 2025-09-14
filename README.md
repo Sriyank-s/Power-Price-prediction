@@ -64,3 +64,4 @@ This project addresses the challenge of fluctuating prices in deregulated market
 Historical MCP data for the past 30 days.  
 
 **Example Forecast Output (Next 6 Hours):**
+[49.8, 50.1, 50.4, 51.0, 50.7, 50.9]
