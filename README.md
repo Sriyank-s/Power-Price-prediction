@@ -40,9 +40,6 @@ This project addresses the challenge of fluctuating prices in deregulated market
 - MCP distribution showed concentration around certain ranges.  
 - Peak hours had higher variability.  
 
-**Figure 2:** Distribution of MCP values.  
-![MCP Distribution](results/mcp_distribution.png)  
-
 ---
 
 ## Forecasting Models
@@ -69,7 +66,7 @@ Historical MCP data for the past 30 days.
 
 
 **Figure 3:** Forecast comparison across ARIMA, SARIMA, and LSTM.  
-![Forecast Comparison](results/forecast_comparison.png)  
+![Forecast Comparison](https://github.com/Sriyank-s/Power-Price-prediction/blob/main/model%20performance.png)  
 
 ---
 
@@ -95,7 +92,7 @@ Minimum Cost: 25,630.50
 
 
 **Figure 4:** GA convergence curve (cost minimized across generations).  
-![GA Convergence](results/ga_convergence.png)  
+![GA Convergence](https://github.com/Sriyank-s/Power-Price-prediction/blob/main/ga_convergence.png)  
 
 ---
 
@@ -109,7 +106,7 @@ Minimum Cost: 25,630.50
 
 
 **Figure 5:** Dynamic price tagging using forecasted MCP and GA optimization.  
-![Price Tagging](results/price_tagging.png)  
+![Price Tagging](https://github.com/Sriyank-s/Power-Price-prediction/blob/main/price_tagging.png)  
 
 ---
 
@@ -120,8 +117,7 @@ Minimum Cost: 25,630.50
 - **LSTM:** R² ≈ 0.88, RMSE ≈ 2.9 (best performance).  
 - **GA Optimization:** Reduced generation costs compared to naive allocation.  
 
-**Figure 6:** Model performance comparison (ARIMA vs SARIMA vs LSTM).  
-![Model Performance](results/model_performance.png)  
+
 
 ---
 
