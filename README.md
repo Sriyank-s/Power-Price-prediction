@@ -34,7 +34,7 @@ This project addresses the challenge of fluctuating prices in deregulated market
 - Volatility spikes highlighted the need for robust forecasting.  
 
 **Figure 1:** Historical Market Clearing Price (MCP) trends.  
-![MCP Trend](results/mcp_trend.png)  
+![MCP Trend](https://github.com/Sriyank-s/Power-Price-prediction/blob/main/mcp_trend.png)  
 
 ### Distribution Analysis
 - MCP distribution showed concentration around certain ranges.  
